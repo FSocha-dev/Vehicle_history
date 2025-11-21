@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+#Folders
+env/
+
+# Temporary files
+~$*.docx
+~$*.doc
+*.tmp
+
+# Word files
+*.docx
+
